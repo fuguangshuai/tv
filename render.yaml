@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: libretv
+    name: sizetv
     runtime: node
     plan: free
     buildCommand: 'npm install'
